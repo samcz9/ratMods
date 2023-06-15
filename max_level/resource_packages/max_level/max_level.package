@@ -1,0 +1,11 @@
+mod = [
+	"max_level"
+]
+
+package = [
+	"resource_packages/max_level/max_level"
+]
+
+lua = [
+	"scripts/mods/max_level/*"
+]
